@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestBed</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_value">Enter a value</string>
+    <string name="program_stopped">Program is stopped</string>
+    <string name="program_finished">Program is finished</string>
+    <string name="close">Close TestBed</string>
+
+</resources>

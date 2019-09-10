@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.samsung.itschool.testbed_first.MainActivity" >
+
+    <item
+        android:id="@+id/restart"
+        android:orderInCategory="100"
+        android:title="@string/restart"/>
+
+</menu>
